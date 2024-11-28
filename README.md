@@ -1,5 +1,9 @@
 # 💫 About Me:
-	•	🔭 Currently working on cross-platform mobile apps with Flutter.<br>	•	🌱 Always learning and exploring new technologies in mobile development.<br>	•	💬 Ask me about Flutter, Dart, Riverpod, and UI/UX best practices.<br>	•	🛠️ Experienced in integrating APIs, Firebase, and third-party packages.<br>	•	⚡ Fun fact: I love solving UI challenges and optimizing performance!
+🔭 Currently working on cross-platform mobile apps with Flutter.
+🌱 Always learning and exploring new technologies in mobile development		
+💬 Ask me about Flutter, Dart, Riverpod, and UI/UX best practices.
+🛠️ Experienced in integrating APIs, Firebase, and third-party packages.
+⚡ Fun fact: I love solving UI challenges and optimizing performance!
 
 
 ## 🌐 Socials:
